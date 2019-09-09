@@ -1,5 +1,7 @@
 # 深入 React 技术栈示例代码
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/react-book-examples.svg)](https://greenkeeper.io/)
+
 示例代码并没有完整照搬书的代码，而是选择书中完整的示例展示
 
 - 第一章示例代码是 1.7 节 组件化实例 - Tabs 组件中的代码
