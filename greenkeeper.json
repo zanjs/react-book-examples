@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "01/package.json",
+        "02/package.json",
+        "04/package.json",
+        "05/package.json",
+        "06/package.json",
+        "07/app/assets/package.json",
+        "07/package.json",
+        "08/package.json"
+      ]
+    }
+  }
+}
